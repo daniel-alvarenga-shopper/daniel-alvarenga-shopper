@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Daniel Alvarenga
 
-<!--
-**daniel-alvarenga-shopper/daniel-alvarenga-shopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **estagiário na área de Marketing** na **Shopper.com.br**, atuando diretamente no **setor de Precificação**.
 
-Here are some ideas to get you started:
+## 💼 Sobre meu trabalho na Shopper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No dia a dia, participo e desenvolvo:
+
+- Estratégias de **precificação**
+- Análise de dados e indicadores de preço
+- Suporte a decisões comerciais orientadas por dados
+- Interface entre marketing, compras e produto (quando aplicável)
+
+Sempre com foco em gerar valor para o cliente e sustentabilidade do negócio.
+
+## 🛠️ Ferramentas & Interesses
+
+- Análise de dados  
+- Estratégia de preços  
+- Marketing orientado a performance  
+- Experimentação e melhoria contínua  
+
+## 🔗 GitHub pessoal
+
+Este é meu perfil **corporativo**, utilizado para projetos e atividades relacionadas à Shopper.
+
+👉 Para projetos pessoais, estudos e experimentos, acesse meu [GitHub pessoal](https://github.com/Daniel-Alvarenga)  
+
+---
+
+📦 *Shopper.com.br — Seu jeito inteligente de fazer supermercado.*
