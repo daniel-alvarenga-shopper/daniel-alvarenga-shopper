@@ -6,7 +6,7 @@ Sou **estagiário na área de Marketing** na **Shopper.com.br**, atuando diretam
 
 No dia a dia, participo e desenvolvo:
 
-- Estratégias de **precificação**
+- Estratégias de **precificação** $$
 - Análise de dados e indicadores de preço
 - Suporte a decisões comerciais orientadas por dados
 - Interface entre marketing, compras e produto (quando aplicável)
