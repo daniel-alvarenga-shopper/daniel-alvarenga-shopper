@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Daniel Alvarenga
 
-Sou **estagiário na área de Marketing** na **[Shopper](https://shopper.com.br)**, atuando diretamente no **setor de Precificação**.
+Sou **estagiário na área de Marketing** na **[Shopper](https://shopper.com.br)**, atuando especificamente no **setor de Precificação**.
 
 ## 💼 Sobre meu trabalho na Shopper
 
@@ -24,8 +24,8 @@ Sempre com foco em gerar valor para o cliente e sustentabilidade do negócio.
 
 Este é meu perfil **corporativo**, utilizado para projetos e atividades relacionadas à Shopper.
 
-👉 Para projetos pessoais, estudos e experimentos, acesse meu [GitHub pessoal](https://github.com/Daniel-Alvarenga)  
+👉 Para acessar meus projetos pessoais, estudos e experimentos, acesse meu [GitHub pessoal](https://github.com/Daniel-Alvarenga)  
 
 ---
 
-📦 *Shopper.com.br — Seu jeito inteligente de fazer supermercado.*
+📦 *[Shopper.com.br](Shopper.com.br) — Seu jeito inteligente de fazer supermercado.*
