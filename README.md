@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Daniel Alvarenga
 
-Sou **estagiário na área de Marketing** na **Shopper.com.br**, atuando diretamente no **setor de Precificação**.
+Sou **estagiário na área de Marketing** na **[Shopper](https://shopper.com.br)**, atuando diretamente no **setor de Precificação**.
 
 ## 💼 Sobre meu trabalho na Shopper
 
